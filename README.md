@@ -1,0 +1,1 @@
+# shopware52-plugin-bootstrap
