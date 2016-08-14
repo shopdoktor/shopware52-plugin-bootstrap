@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+
+	<label lang="en">Testplugin Einstellungen</label>
+	<label lang="de">Testplugin settings</label>
+
+	<elements>
+		<element scope="locale" required="false" type="boolean">
+			<name>show</name>
+			<label lang="de">Subshop aktiv?</label>
+			<label lang="en">Subshop active?</label>
+			<value>true</value>
+			<description lang="de">Ist das Plugin für diesen Subshop aktiv?</description>
+			<description lang="en">Is this plugin active for this subshop?</description>
+		</element>
+	</elements>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+	<label>Test Plugin</label>
+	<version>1.0.0</version>
+	<copyright>Shopdoktor.com</copyright>
+	<license>proprietary</license>
+	<link>https://www.shopdoktor.com/</link>
+	<author>Sebastian Lenz</author>
+	<description>Dieses Plugin wurde zu Testzwecken entwickelt.</description>
+</plugin>
